@@ -18,16 +18,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283853152230']
-global.premium = ['6283853152230']
-global.packname = '🤖𝚁𝚠•𝙱𝚘𝚝~🤖'
+global.owner = ['94772724220']
+global.premium = ['94772724220']
+global.packname = 'Rᷢaⷶsᷤtͭhͪaⷶ mͫuͧrͬuͧ'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'rwdm'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
+    success: '✓ හරි',
+    admin: 'එම අංගය ඇඩ්මින්ල!' හට පමණි!!,
     erro: 'Maaf Fitur ini sedang gangguan', 
     link: 'Link Salah Gunakan Dengan Benar', 
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
